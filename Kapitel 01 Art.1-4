@@ -19,7 +19,7 @@ Malzeme kapsamı
         c- gerçek kişiler tarafından münhasıran kişisel veya ailevi faaliyetlerde bulunmak,
         d- kamu güvenliğine yönelik tehlikelere karşı koruma ve tehlikelerin önlenmesi de dahil olmak üzere, 
         ceza gerektiren suçların önlenmesi, soruşturulması, tespit edilmesi veya kovuşturulması veya 
-        cezaların infazı amacıyla yetkili makamlar tarafından.
+        cezaların infazı amacıyla yetkili makamlar tarafından kullanilmasi
     3- (EC) No. 45/2001 Düzenlemesi, kişisel verilerin Birlik kurumları, organları, ofisleri ve 
     ajansları tarafından işlenmesi için geçerlidir. 
     Kişisel verilerin bu şekilde işlenmesini düzenleyen 45/2001 sayılı Yönetmelik ve Birliğin diğer yasal düzenlemeleri, 
@@ -49,64 +49,112 @@ Tanımlar
     özellikle isim, kimlik numarası, konum verileri, çevrimiçi tanımlayıcı veya bir veya daha fazla özel özellik gibi 
     bir tanımlayıcıyla ilişkilendirilerek, fiziksel, fizyolojik, genetik, psikolojik durumu (ifade edilen kişidir)
     bu gerçek kişinin ekonomik, kültürel veya sosyal kimliği belirlenebilir;
+    
     2- "İşleme", kişisel verilerle bağlantılı olarak otomatikleştirilmiş işlemler veya bu tür işlemler dizisi yardımıyla 
     veya bunların yardımı olmadan gerçekleştirilen toplama, kaydetme, düzenleme, sipariş verme, depolama, uyarlama veya
     değiştirme, okuma, sorgulama, kullanma, iletim, dağıtım veya diğer herhangi bir şekilde kullanılabilir hale getirme, 
     eşleştirme veya bağlama, kısıtlama, silme veya imha yoluyla ifşa;
+    
     3- “işlemenin kısıtlanması”, saklanan kişisel verilerin gelecekteki işlenmesini kısıtlamak amacıyla işaretlenmesi;
+    
     4- Bu kişisel verilerin bir gerçek kişiyle ilgili belirli kişisel yönleri, özellikle iş performansı, ekonomik durum, 
     sağlık, kişisel ile ilgili yönleri değerlendirmek için kullanılmasını içeren her türlü otomatikleştirilmiş 
     kişisel veri işleme türünün "profillenmesi". tercihler, ilgi alanları, güvenilirlik, davranış, konum veya
     yer değiştirme;
+    
     5- "Sahte isimlendirme", kişisel verilerin, bu ek bilgilerin ayrı olarak saklanması ve teknik ve 
     organizasyonel önlemlere tabi olması koşuluyla, ek bilgiler kullanılmadan belirli bir veri sahibine 
     atanamayacak şekilde işlenmesi anlamına gelir. kişisel verilerin kimliği belirli veya 
     belirlenebilir bir gerçek kişiye atfedilmemesi;
+    
     6- “Dosya sistemi”, ister merkezileştirilmiş, ister merkezi olmayan veya işlevsel veya coğrafi kriterlere göre 
     organize edilmiş olsun, belirli kriterlere göre erişilebilen herhangi bir yapılandırılmış kişisel veri koleksiyonu;
+    
     7- "Sorumlu", kişisel verilerin işlenmesinin amaç ve araçlarına tek başına veya başkalarıyla birlikte karar veren 
     gerçek veya tüzel kişi, kamu makamı, kurum veya diğer organ; Bu işlemenin amaçları ve araçları Birlik hukuku veya 
     Üye Devletlerin hukuku tarafından belirtilmişse, sorumlu kişi veya onun adlandırılması için belirli kriterler 
     Birlik hukuku veya Üye Devletlerin hukuku tarafından sağlanabilir;
+    
     8- "İşlemci", denetleyici adına kişisel verileri işleyen bir gerçek veya tüzel kişi, kamu makamı, kurum veya 
     diğer organ;
+    
     9- "Alıcı", üçüncü şahıs olsun ya da olmasın, kişisel verilerin ifşa edildiği gerçek veya tüzel kişi, kamu makamı, 
     kurum veya diğer organ anlamına gelir. Ancak, Birlik veya Üye Devlet hukuku kapsamındaki belirli bir soruşturmanın 
     parçası olarak kişisel verileri alabilecek makamlar, alıcı olarak kabul edilmez; bu verilerin söz konusu makamlar 
     tarafından işlenmesi, işleme amaçlarına göre geçerli veri koruma yönetmeliklerine uygun olarak gerçekleştirilir;
+    
     10- "üçüncü taraf", veri sahibi, kontrolör, işleyici ve kontrolör veya işleyicinin doğrudan sorumluluğu altında 
     kişisel verileri işlemeye yetkili kişiler dışındaki bir gerçek veya tüzel kişi, kamu makamı, kurum veya diğer organ;
+    
     11- Veri sahibinin "rızası", belirli bir durumda, veri sahibinin kişisel verilerini işlediğini belirttiği bir beyan 
     veya diğer açık onaylayıcı eylem şeklinde herhangi bir gönüllü, bilgili ve açık irade ifadesi anlamına gelir;
+    
     12- "Kişisel veri ihlali" iletilen, saklanan veya başka bir şekilde işlenen kişisel verilerin kazara veya 
     yasa dışı olarak yok edilmesine, kaybolmasına, değiştirilmesine, yetkisiz ifşasına veya bunlara erişime yol açan 
     bir güvenlik ihlali anlamına gelir;
+    
     13- "genetik veriler", bir gerçek kişinin kalıtsal veya edinilmiş genetik özelliklerine ilişkin, o gerçek kişinin 
     fizyolojisi veya sağlığı hakkında açık bilgi sağlayan ve özellikle bu gerçek kişinin biyolojik bir örneğinin 
     analizinden elde edilen kişisel veriler anlamına gelir;
+    
     14- "biyometrik veriler", yüz görüntüleri veya daktiloskopik veriler gibi o gerçek kişinin benzersiz kimliğini 
     sağlayan veya onaylayan özel teknik işlemler kullanılarak elde edilen, gerçek bir kişinin fiziksel, fizyolojik 
     veya davranışsal özelliklerine ilişkin kişisel veriler anlamına gelir;
+    
     15- "sağlık verileri", sağlık hizmetlerinin sağlanması da dahil olmak üzere, bir bireyin fiziksel veya zihinsel 
     sağlığına ilişkin ve o kişinin sağlık durumu hakkında bilgi veren kişisel verileri ifade eder;
+    
     16- "Merkez ofis"
-        a- Birden fazla Üye Devlette kuruluşu olan bir kontrolör olması durumunda, kişisel verilerin işlenmesinin amaçları ve araçlarına ilişkin kararlar kontrolörün Birlik içindeki başka bir kuruluşunda alınmadıkça, merkez ofisinin Birlik içindeki yeri ve bu kuruluş bu kararları uygulamaya yetkilidir; bu durumda bu kararları veren şube ana şube sayılır;
-        b- birden fazla Üye Devlette kuruluşu olan bir işleyici olması durumunda, merkezinin Birlik'teki konumu veya işleyicinin Birlik'te bir merkez ofisi yoksa işleyicinin işleme faaliyetinin gerçekleştirildiği Birlik'teki kuruluşu bir işleyici kuruluşunun faaliyetleri çerçevesinde yürütülen faaliyetler, esas olarak işleyicinin bu Yönetmelik kapsamındaki belirli yükümlülüklere tabi olması durumunda gerçekleşir;
-    17- "Temsilci", 27. madde uyarınca kontrolör veya işleyici tarafından yazılı olarak atanan ve işbu Tüzük kapsamındaki ilgili yükümlülükleriyle ilgili olarak kontrolör veya işleyiciyi temsil eden Birlik'te yerleşik gerçek veya tüzel kişi anlamına gelir;
-    18- "İşletme", düzenli olarak bir ekonomik faaliyette bulunan ortaklıklar veya dernekler de dahil olmak üzere, bir ekonomik faaliyette bulunan, yasal şekli ne olursa olsun, gerçek veya tüzel kişi anlamına gelir;
+        a- Birden fazla Üye Devlette kuruluşu olan bir kontrolör olması durumunda, kişisel verilerin işlenmesinin amaçları 
+        ve araçlarına ilişkin kararlar kontrolörün Birlik içindeki başka bir kuruluşunda alınmadıkça, merkez ofisinin 
+        Birlik içindeki yeri ve bu kuruluş bu kararları uygulamaya yetkilidir; bu durumda bu kararları veren şube ana şube sayılır;
+        
+        b- birden fazla Üye Devlette kuruluşu olan bir işleyici olması durumunda, merkezinin Birlik'teki konumu veya
+        işleyicinin Birlik'te bir merkez ofisi yoksa işleyicinin işleme faaliyetinin gerçekleştirildiği Birlik'teki 
+        kuruluşu bir işleyici kuruluşunun faaliyetleri çerçevesinde yürütülen faaliyetler, esas olarak işleyicinin 
+        bu Yönetmelik kapsamındaki belirli yükümlülüklere tabi olması durumunda gerçekleşir;
+        
+    17- "Temsilci", 27. madde uyarınca kontrolör veya işleyici tarafından yazılı olarak atanan ve işbu Tüzük kapsamındaki ilgili
+    yükümlülükleriyle ilgili olarak kontrolör veya işleyiciyi temsil eden Birlik'te yerleşik gerçek veya tüzel kişi anlamına gelir;
+    
+    18- "İşletme", düzenli olarak bir ekonomik faaliyette bulunan ortaklıklar veya dernekler de dahil olmak üzere, 
+    bir ekonomik faaliyette bulunan, yasal şekli ne olursa olsun, gerçek veya tüzel kişi anlamına gelir;
+    
     19- "Şirketler Grubu" bir hakim şirket ve ona bağlı şirketlerden oluşan bir grup;
-    20- "bağlayıcı kurumsal kurallar", bir Üye Devletin topraklarında yerleşik bir kontrolör veya işleyicinin, aynı gruptaki bir kontrolör veya işleyiciye veri aktarımları veya kişisel verilerin bir veri aktarım kategorisine ilişkin olarak uymayı taahhüt ettiği kişisel veri koruma önlemleri anlamına gelir. bir veya daha fazla üçüncü ülkede ortak ekonomik faaliyet yürüten şirketler veya aynı şirketler grubu;
+    
+    20- "bağlayıcı kurumsal kurallar", bir Üye Devletin topraklarında yerleşik bir kontrolör veya işleyicinin, 
+    aynı gruptaki bir kontrolör veya işleyiciye veri aktarımları veya kişisel verilerin bir veri aktarım kategorisine 
+    ilişkin olarak uymayı taahhüt ettiği kişisel veri koruma önlemleri anlamına gelir. bir veya daha fazla üçüncü ülkede 
+    ortak ekonomik faaliyet yürüten şirketler veya aynı şirketler grubu;
+    
     21- "Denetim Otoritesi", 51. Madde uyarınca bir Üye Devlet tarafından kurulan bağımsız bir hükümet organı anlamına gelir;
+    
     22- “İlgili denetim makamı”, kişisel verilerin işlenmesinden etkilenen bir denetim makamıdır, çünkü
         a- kontrolör veya işleyicinin, söz konusu denetim makamının Üye Devletinin topraklarında yerleşik olması,
-        b- bu işlemenin, bu denetim makamının üye devletinde ikamet eden veri sahipleri üzerinde önemli etkileri vardır veya olabilir veya
+        
+        b- bu işlemenin, bu denetim makamının üye devletinde ikamet eden veri sahipleri üzerinde önemli etkileri 
+        vardır veya olabilir veya
+        
         c-bu denetim makamına bir şikayette bulunulduğunda;
+        
     23- "sınır ötesi işleme"
-        a- Kontrolör veya işleyicinin birden fazla Üye Devlette yerleşik olması durumunda, birden fazla Üye Devlette Birlik içindeki bir kontrolör veya işleyicinin kuruluşlarının faaliyetleri sırasında gerçekleşen kişisel verilerin işlenmesi veya
-        b- Birlik içindeki bir kontrolör veya işleyicinin tek bir kuruluşunun faaliyetlerinde yer alan, ancak birden fazla Üye Devletteki veri sahipleri üzerinde önemli etkisi olan veya olabilecek kişisel verilerin işlenmesi;
-    24- "ilgili ve gerekçeli itiraz", bu Yönetmeliğin ihlal edilip edilmediğine veya kontrolör veya işleyiciye karşı öngörülen eylemin bu Yönetmeliğe uygun olup olmadığına ilişkin bir karar taslağına yapılan ve bu itirazın risklerin kapsamını açıkça yansıttığı durumlarda yapılan itiraz anlamına gelir. veri sahiplerinin temel hak ve özgürlüklerine ve uygun olduğu durumlarda kişisel verilerin Birlik içinde serbest dolaşımına ilişkin taslak karardan kaynaklanan;
-    25- “bilgi toplumu hizmeti”, Avrupa Parlamentosu ve Konseyi'nin (AB) 2015/1535 sayılı Direktifinin 1(1)(b) Maddesinde tanımlandığı gibi bir hizmet anlamına gelir;
-"   26- Uluslararası kuruluş", uluslararası bir yasal kuruluş ve onun yan kuruluşları veya iki veya daha fazla ülke arasında imzalanan bir anlaşma tarafından veya bu anlaşma temelinde oluşturulan diğer herhangi bir kuruluş anlamına gelir.
+        a- Kontrolör veya işleyicinin birden fazla Üye Devlette yerleşik olması durumunda, birden fazla Üye Devlette 
+        Birlik içindeki bir kontrolör veya işleyicinin kuruluşlarının faaliyetleri sırasında gerçekleşen 
+        kişisel verilerin işlenmesi veya
+        
+        b- Birlik içindeki bir kontrolör veya işleyicinin tek bir kuruluşunun faaliyetlerinde yer alan, 
+        ancak birden fazla Üye Devletteki veri sahipleri üzerinde önemli etkisi olan veya olabilecek kişisel verilerin işlenmesi;
+        
+    24- "ilgili ve gerekçeli itiraz", bu Yönetmeliğin ihlal edilip edilmediğine veya kontrolör veya işleyiciye karşı 
+    öngörülen eylemin bu Yönetmeliğe uygun olup olmadığına ilişkin bir karar taslağına yapılan ve bu itirazın risklerin 
+    kapsamını açıkça yansıttığı durumlarda yapılan itiraz anlamına gelir. veri sahiplerinin temel hak ve özgürlüklerine ve 
+    uygun olduğu durumlarda kişisel verilerin Birlik içinde serbest dolaşımına ilişkin taslak karardan kaynaklanan;
+    
+    25- “bilgi toplumu hizmeti”, Avrupa Parlamentosu ve Konseyi'nin (AB) 2015/1535 sayılı Direktifinin 1(1)(b) Maddesinde
+    tanımlandığı gibi bir hizmet anlamına gelir;
+    
+    26- Uluslararası kuruluş", uluslararası bir yasal kuruluş ve onun yan kuruluşları veya iki veya daha fazla ülke arasında
+    imzalanan bir anlaşma tarafından veya bu anlaşma temelinde oluşturulan diğer herhangi bir kuruluş anlamına gelir.
 
 
 
