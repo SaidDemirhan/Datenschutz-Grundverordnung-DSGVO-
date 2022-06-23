@@ -5,11 +5,25 @@ Kişisel verilerin işlenmesine ilişkin ilkeler
 
     1 Kişisel veriler gerekir
         a hukuka uygun, adil ve veri sahibine karşı şeffaf bir şekilde işlenir (“hukuka uygunluk, adil işleme, şeffaflık”);
-        b belirli, açık ve meşru amaçlar için toplanmış ve bu amaçlarla bağdaşmayan bir şekilde daha fazla işlenmemiş; kamu yararına, bilimsel veya tarihsel araştırma amaçlarına veya istatistiksel amaçlara yönelik arşivleme amaçları için daha fazla işleme, Madde 89(1) ("amaç sınırlaması") uyarınca orijinal amaçlarla bağdaşmaz olarak kabul edilmeyecektir;
+        
+        b belirli, açık ve meşru amaçlar için toplanmış ve bu amaçlarla bağdaşmayan bir şekilde daha fazla işlenmemiş; 
+        kamu yararına, bilimsel veya tarihsel araştırma amaçlarına veya istatistiksel amaçlara yönelik arşivleme amaçları için 
+        daha fazla işleme, Madde 89(1) ("amaç sınırlaması") uyarınca orijinal amaçlarla bağdaşmaz olarak kabul edilmeyecektir;
+        
         c amaca uygun ve ilgili ve işleme amaçları için gerekli olanlarla sınırlı (“veri minimizasyonu”);
-        d doğru ve gerektiğinde güncel olmak; İşlenme amaçlarına göre yanlış olan kişisel verilerin gecikmeksizin silinmesini veya düzeltilmesini ("doğruluk") sağlamak için her makul adım atılmalıdır;
-        e sadece işlenme amaçları için gerekli olduğu sürece veri sahiplerinin kimliğinin belirlenmesine izin veren bir biçimde tutulur; kişisel veriler, veri sahibinin hak ve özgürlüklerini korumak için bu Yönetmelikte öngörülen uygun teknik ve organizasyonel önlemlerin uygulanmasına tabi olmak kaydıyla, kişisel verilerin münhasıran arşivleme amacıyla kullanılması şartıyla daha uzun süre saklanabilir. kamu yararına veya bilimsel ve tarihsel araştırma amaçlarına yönelik olarak veya Madde 89(1) uyarınca istatistiksel amaçlarla işlenen ("depolama sınırlaması");
-        f uygun teknik ve organizasyonel önlemler ("bütünlük ve gizlilik") kullanılarak yetkisiz veya yasa dışı işlemeye ve kazara kayıp, imha veya hasara karşı koruma dahil olmak üzere kişisel verilerin uygun güvenliğini sağlayacak şekilde işlenir;
+        
+        d doğru ve gerektiğinde güncel olmak; İşlenme amaçlarına göre yanlış olan kişisel verilerin gecikmeksizin silinmesini 
+        veya düzeltilmesini ("doğruluk") sağlamak için her makul adım atılmalıdır;
+        
+        e sadece işlenme amaçları için gerekli olduğu sürece veri sahiplerinin kimliğinin belirlenmesine izin veren
+        bir biçimde tutulur; kişisel veriler, veri sahibinin hak ve özgürlüklerini korumak için bu Yönetmelikte öngörülen
+        uygun teknik ve organizasyonel önlemlerin uygulanmasına tabi olmak kaydıyla, kişisel verilerin münhasıran 
+        arşivleme amacıyla kullanılması şartıyla daha uzun süre saklanabilir. kamu yararına veya bilimsel ve tarihsel 
+        araştırma amaçlarına yönelik olarak veya Madde 89(1) uyarınca istatistiksel amaçlarla işlenen ("depolama sınırlaması");
+        
+        f uygun teknik ve organizasyonel önlemler ("bütünlük ve gizlilik") kullanılarak yetkisiz veya yasa dışı işlemeye ve
+        kazara kayıp, imha veya hasara karşı koruma dahil olmak üzere kişisel verilerin uygun güvenliğini sağlayacak şekilde işlenir;
+        
     2 Kontrolör, 1. paragrafa uyumdan sorumludur ve buna uygunluğu ("hesap verebilirlik") gösterebilmelidir.
 
 
@@ -18,84 +32,175 @@ işlemenin yasallığı
 
     1 İşleme, yalnızca aşağıdaki koşullardan en az biri karşılandığında yasaldır:
         a Veri sahibi, kişisel verilerinin bir veya daha fazla belirli amaç için işlenmesine onay verdi;
-        b veri sahibinin taraf olduğu bir sözleşmenin ifası veya veri sahibinin talebi üzerine sözleşme öncesi önlemlerin uygulanması için işlemenin gerekli olması;
+        
+        b veri sahibinin taraf olduğu bir sözleşmenin ifası veya veri sahibinin talebi üzerine sözleşme öncesi 
+        önlemlerin uygulanması için işlemenin gerekli olması;
+        
         c işlemenin, kontrolörün tabi olduğu yasal bir yükümlülüğe uygunluk için gerekli olması;
+        
         d işlemenin veri sahibinin veya başka bir gerçek kişinin hayati menfaatlerini korumak için gerekli olması;
-        e işlemenin kamu yararına olan bir görevin yerine getirilmesi veya sorumlu kişiye atanan resmi yetkinin kullanılması için gerekli olması;
-        f Özellikle veri sahibinin bir çocuk olması durumunda, veri sahibinin kişisel verilerin korunmasını gerektiren çıkarları veya temel hak ve özgürlükleri öncelikli olmadıkça, sorumlu kişinin veya üçüncü bir kişinin meşru menfaatlerini korumak için işlemenin gerekli olması.
+        
+        e işlemenin kamu yararına olan bir görevin yerine getirilmesi veya sorumlu kişiye atanan resmi yetkinin
+        kullanılması için gerekli olması;
+        
+        f Özellikle veri sahibinin bir çocuk olması durumunda, veri sahibinin kişisel verilerin korunmasını 
+        gerektiren çıkarları veya temel hak ve özgürlükleri öncelikli olmadıkça, sorumlu kişinin veya üçüncü bir 
+        kişinin meşru menfaatlerini korumak için işlemenin gerekli olması.
 
     Birinci fıkranın (f) bendi, kamu makamlarınca görevlerinin ifası sırasında gerçekleştirilen işlemlere uygulanmaz.
-    2 Üye Devletler, işlemeye ilişkin özel gereksinimleri ve yasal ve Bölüm IX uyarınca diğer özel işleme durumları da dahil olmak üzere adil ve inançlı.
-3 Paragraf 1 c ve e harfleri uyarınca işlemenin yasal dayanağı, aşağıdakiler tarafından belirlenir:
+    
+    2 Üye Devletler, işlemeye ilişkin özel gereksinimleri ve yasal ve Bölüm IX uyarınca diğer özel işleme 
+    durumları da dahil olmak üzere adil ve inançlı.
+    
+    3 Paragraf 1 c ve e harfleri uyarınca işlemenin yasal dayanağı, aşağıdakiler tarafından belirlenir:
 
-    a Birlik hukuku veya
-    b kontrolörün tabi olduğu Üye Devletlerin hukuku.
+        a Birlik hukuku veya
+        
+        b kontrolörün tabi olduğu Üye Devletlerin hukuku.
 
- İşleme amacı, bu yasal dayanakta belirtilmelidir veya paragraf 1 e harfinde atıfta bulunulan işleme ile ilgili olarak, kamu yararına yürütülen bir görevin yerine getirilmesi veya kamu yararına verilen resmi yetkinin kullanılması için gerekli olmalıdır. kontrol eden, denetleyici. 3Bu yasal dayanak, kontrolör tarafından işlemenin yasallığını düzenlemek için hangi genel koşulların uygulanacağı, ne tür verilerin işlendiği, hangi konuların ilgili olduğu, hangi tüzel kişilikler ve Kişisel verilerin hangi amaçlarla ifşa edilebileceği, amaç sınırlamaları, ne kadar süreyle saklanabilecekleri ve Bölüm uyarınca diğer özel işleme durumları için olanlar gibi yasal ve adil işlemeyi sağlamaya yönelik önlemler de dahil olmak üzere hangi işleme operasyonları ve prosedürlerinin kullanılabileceği. IX. 4Birlik hukuku veya Üye Devletlerin hukuku, kamu yararına bir amaç gütmeli ve izlenen meşru amaçla orantılı olmalıdır.
-4 Kişisel verilerin toplanma amacı dışında bir amaç için işlenmesi, veri sahibinin rızasına veya Birlik veya Üye Devletlerin demokratik bir toplumda gerekli ve korumak için orantılı önlem Başka bir amaç için işlemenin, kişisel verilerin orijinal olarak toplandığı amaç ile uyumlu olup olmadığını belirlemek için, kontrolör, diğer şeylerin yanı sıra, Madde 23(1)'de atıfta bulunulan amaçları dikkate alacaktır. .
+ İşleme amacı, bu yasal dayanakta belirtilmelidir veya paragraf 1 e harfinde atıfta bulunulan işleme ile 
+ ilgili olarak, kamu yararına yürütülen bir görevin yerine getirilmesi veya kamu yararına verilen resmi yetkinin 
+ kullanılması için gerekli olmalıdır. kontrol eden, denetleyici. Bu yasal dayanak, kontrolör tarafından işlemenin 
+ yasallığını düzenlemek için hangi genel koşulların uygulanacağı, ne tür verilerin işlendiği, hangi konuların 
+ ilgili olduğu, hangi tüzel kişilikler ve Kişisel verilerin hangi amaçlarla ifşa edilebileceği, amaç sınırlamaları, 
+ ne kadar süreyle saklanabilecekleri ve Bölüm uyarınca diğer özel işleme durumları için olanlar gibi yasal ve adil 
+ işlemeyi sağlamaya yönelik önlemler de dahil olmak üzere hangi işleme operasyonları ve prosedürlerinin 
+ kullanılabileceği. IX. Birlik hukuku veya Üye Devletlerin hukuku, kamu yararına bir amaç gütmeli ve izlenen meşru 
+ amaçla orantılı olmalıdır.
+ 
+4 Kişisel verilerin toplanma amacı dışında bir amaç için işlenmesi, veri sahibinin rızasına veya Birlik veya 
+Üye Devletlerin demokratik bir toplumda gerekli ve korumak için orantılı önlem Başka bir amaç için işlemenin, 
+kişisel verilerin orijinal olarak toplandığı amaç ile uyumlu olup olmadığını belirlemek için, kontrolör, diğer 
+şeylerin yanı sıra, Madde 23(1)'de atıfta bulunulan amaçları dikkate alacaktır. 
 
     a kişisel verilerin toplanma amaçları ile amaçlanan ileri işleme amaçları arasındaki herhangi bir bağlantı,
+    
     b Kişisel verilerin toplandığı bağlam, özellikle veri sahibi ile sorumlu kişi arasındaki ilişki ile ilgili olarak,
-    c Kişisel verilerin niteliği, özellikle özel nitelikli kişisel verilerin 9. madde uyarınca mı işlendiği, yoksa cezai hüküm ve suçlara ilişkin kişisel verilerin 10. madde uyarınca mı işlendiği,
+    
+    c Kişisel verilerin niteliği, özellikle özel nitelikli kişisel verilerin 9. madde uyarınca mı işlendiği, 
+    yoksa cezai hüküm ve suçlara ilişkin kişisel verilerin 10. madde uyarınca mı işlendiği,
+    
     d ilgili kişiler için amaçlanan ileri işlemenin olası sonuçları,
+    
     e şifreleme veya takma ad vermeyi içerebilen uygun korumaların varlığı.
-
-
-
 
 Art. 7 DSGVO 
 Rıza Koşulları
 
     1 İşleme rızaya dayanıyorsa, sorumlu kişi, veri sahibinin kişisel verilerinin işlenmesine rıza gösterdiğini kanıtlayabilmelidir.
-    2 Veri sahibinin rızasının diğer hususları da içeren yazılı bir beyan şeklinde verildiği durumlarda, muvafakat talebinin anlaşılır ve kolay erişilebilir bir biçimde, açık ve sade bir dil kullanılarak, muvafakatnameden açıkça ayırt edilebilecek şekilde yapılması gerekir. diğer meseleler. 2 Beyanın bölümleri, bu yönetmeliğin ihlalini temsil ettikleri takdirde bağlayıcı değildir.
-    3 Veri sahibi, herhangi bir zamanda onayını geri çekme hakkına sahiptir. 2Rızanın iptali, iptal noktasına kadar rızaya dayalı olarak gerçekleştirilen işlemenin yasallığını etkilemez. 3Veri sahibi, onay verilmeden önce bu konuda bilgilendirilecektir. 4Rızayı geri çekmek, rıza vermek kadar basit olmalıdır.
-    4 Rızanın serbestçe verilip verilmediğini değerlendirirken, diğer şeylerin yanı sıra, bir hizmetin sağlanması da dahil olmak üzere bir sözleşmenin ifasının, sözleşmenin ifası için gerekli olan kişisel verilerin işlenmesine rızaya bağlı olup olmadığı azami ölçüde dikkate alınmalıdır. gerekli değil.
-
+    
+    2 Veri sahibinin rızasının diğer hususları da içeren yazılı bir beyan şeklinde verildiği durumlarda, 
+    muvafakat talebinin anlaşılır ve kolay erişilebilir bir biçimde, açık ve sade bir dil kullanılarak, 
+    muvafakatnameden açıkça ayırt edilebilecek şekilde yapılması gerekir. diğer meseleler.  
+    Beyanın bölümleri, bu yönetmeliğin ihlalini temsil ettikleri takdirde bağlayıcı değildir.
+    
+    3 Veri sahibi, herhangi bir zamanda onayını geri çekme hakkına sahiptir. Rızanın iptali, iptal noktasına kadar 
+    rızaya dayalı olarak gerçekleştirilen işlemenin yasallığını etkilemez. 
+    Veri sahibi, onay verilmeden önce bu konuda bilgilendirilecektir. 
+    Rızayı geri çekmek, rıza vermek kadar basit olmalıdır.
+    
+    4 Rızanın serbestçe verilip verilmediğini değerlendirirken, diğer şeylerin yanı sıra, bir hizmetin sağlanması da 
+    dahil olmak üzere bir sözleşmenin ifasının, sözleşmenin ifası için gerekli olan kişisel verilerin işlenmesine 
+    rızaya bağlı olup olmadığı azami ölçüde dikkate alınmalıdır. gerekli değil.
 
 Art. 8 DSGVO 
 Bilgi toplumu hizmetleriyle ilgili olarak bir çocuğun rızası için koşullar
 
-    1 Madde 6(1)(a)'nın doğrudan çocuğa yapılan bir bilgi toplumu hizmetleri teklifi için geçerli olduğu durumlarda, çocuğun kişisel verilerinin işlenmesi, çocuk on altı yaşına gelmişse yasaldır. Çocuk henüz on altı yaşına gelmemişse, bu işleme yalnızca bu rızanın çocuk için ebeveyn sorumluluğu sahibi tarafından veya onların rızasıyla verilmiş olması halinde ve ölçüde yasaldır.
+    1 Madde 6(1)(a)'nın doğrudan çocuğa yapılan bir bilgi toplumu hizmetleri teklifi için geçerli olduğu durumlarda, 
+    çocuğun kişisel verilerinin işlenmesi, çocuk on altı yaşına gelmişse yasaldır. Çocuk henüz on altı yaşına gelmemişse, 
+    bu işleme yalnızca bu rızanın çocuk için ebeveyn sorumluluğu sahibi tarafından veya onların rızasıyla verilmiş olması 
+    halinde ve ölçüde yasaldır.
 
     Üye Devletler, bu amaçlar için daha düşük bir yaş sınırı için kanun koyabilir, ancak 13 yaşından küçük olamaz.
-    2 Kontrolör, mevcut teknolojiyi dikkate alarak, bu gibi durumlarda rızanın çocuk için ebeveyn sorumluluğu sahibi tarafından veya bu kişinin rızasıyla verildiğini doğrulamak için makul çabayı gösterecektir.
-    3 Paragraf 1, bir çocukla ilgili bir sözleşmenin geçerliliği, oluşumu veya yasal sonuçlarına ilişkin kurallar gibi Üye Devletlerin genel sözleşme hukukunu etkilemez.
+    
+    2 Kontrolör, mevcut teknolojiyi dikkate alarak, bu gibi durumlarda rızanın çocuk için ebeveyn sorumluluğu sahibi
+    tarafından veya bu kişinin rızasıyla verildiğini doğrulamak için makul çabayı gösterecektir.
+    
+    3 Paragraf 1, bir çocukla ilgili bir sözleşmenin geçerliliği, oluşumu veya yasal sonuçlarına ilişkin kurallar gibi
+    Üye Devletlerin genel sözleşme hukukunu etkilemez.
 
 
 Art. 9 DSGVO 
 Özel nitelikli kişisel verilerin işlenmesi
 
-    1 Irk veya etnik kökeni, siyasi görüşleri, dini veya felsefi inançları veya sendika üyeliğini ifşa eden kişisel verilerin işlenmesinin yanı sıra genetik verilerin, biyometrik verilerin gerçek bir kişiyi benzersiz bir şekilde tanımlama amacıyla işlenmesi, sağlıkla ilgili veriler veya veriler cinsel yaşam veya cinsel yönelim ile ilgili olarak gerçek bir kişi yasaktır.
+    1 Irk veya etnik kökeni, siyasi görüşleri, dini veya felsefi inançları veya sendika üyeliğini ifşa eden 
+    kişisel verilerin işlenmesinin yanı sıra genetik verilerin, biyometrik verilerin gerçek bir kişiyi 
+    benzersiz bir şekilde tanımlama amacıyla işlenmesi, sağlıkla ilgili veriler veya veriler cinsel yaşam 
+    veya cinsel yönelim ile ilgili olarak gerçek bir kişi yasaktır.
+    
     2 Paragraf 1 aşağıdaki durumlarda uygulanmaz:
-        a Veri sahibi, Birlik hukuku veya Üye Devletlerin hukuku uyarınca, 1. paragrafta atıfta bulunulan yasak, veri sahibinin rızasıyla kaldırılamadığı sürece, söz konusu kişisel verilerin bir veya daha fazla belirli amaç için işlenmesine açıkça rıza göstermiştir. ,
-        b Veri sorumlusunun veya veri sahibinin iş hukuku ve sosyal güvenlik ve sosyal koruma hukuku kapsamındaki haklarını kullanabilmesi ve bunlara ilişkin yükümlülüklerini Birlik hukuku veya Üyenin hukukunun gerektirdiği ölçüde yerine getirebilmesi için işlemenin gerekli olması Üye Devletlerin yasaları uyarınca, veri sahibinin temel hakları ve çıkarları için uygun güvenceler sağlayan Devletlere veya toplu sözleşmeye izin verilir,
-        c veri sahibinin veya başka bir gerçek kişinin hayati menfaatlerini korumak için işlemenin gerekli olması ve veri sahibinin fiziksel veya yasal olarak rıza gösteremeyecek durumda olması,
-        d işleme, yasal faaliyetleri sırasında siyasi, felsefi, dini veya sendika vakfı, dernek veya diğer kar amacı gütmeyen kuruluş tarafından uygun güvenceler temelinde gerçekleştirilir ve işlemenin yalnızca üyeler veya eski üyelerle ilgili olması şartıyla Kuruluşun veya kendisinin çalışma amacı ile ilgili olarak düzenli temas halinde olan kişileri ifade etmesi ve kişisel verilerin ilgili kişilerin rızası olmaksızın dış dünyaya açıklanmaması,
-e işlemenin, ilgili kişinin açıkça alenileştirdiği kişisel verilerle ilgili olması,
-f yasal iddiaların oluşturulması, uygulanması veya savunulması veya adli faaliyetleri bağlamında mahkeme eylemleri için işlemenin gerekli olması,
-g işlemenin, izlenen amaçla orantılı olan, veri koruma hakkının özüne saygı duyan ve veri öznesinin temel hak ve menfaatlerini korumak için uygun ve özel önlemler sağlayan Birlik hukuku veya bir Üye Devletin hukukuna dayalı olması, önemli bir kamu yararının gerekli olması nedeniyle,
-h işleme, sağlık bakımı veya mesleki tıp amaçları, işçinin çalışma kabiliyetinin değerlendirilmesi, sağlık veya sosyal alanda tıbbi teşhis, bakım veya tedavi veya sağlık veya sosyal alanda sistem ve hizmetlerin yönetimi içindir. Birlik hukuku veya bir Üye Devletin hukuku temelinde veya bir sağlık mesleği mensubu ile yapılan bir sözleşme nedeniyle ve 3. paragrafta atıfta bulunulan koşullara ve güvencelere tabi olarak,
-i işleme, ciddi sınır ötesi sağlık risklerine karşı koruma veya sağlık ve tıbbi ürünler ve tıbbi cihazlarda yüksek kalite ve güvenlik standartlarının sağlanması gibi halk sağlığı alanındaki kamu yararı nedenleriyle, Birlik temelinde yapılır. Veri sahibinin haklarını ve özgürlüklerini, özellikle mesleki gizliliği korumak için uygun ve özel önlemler sağlayan bir Üye Devletin kanunu veya kanunu veya
-    j işlemenin, izlenen amaçla orantılı olan, veri koruma hakkının özüne saygı duyan ve veri öznesinin temel hak ve menfaatlerini korumak için uygun ve özel önlemler sağlayan Birlik hukuku veya bir Üye Devletin hukukuna dayalı olması, kamu amaçları için Bilimsel veya tarihsel araştırma amaçlarıyla veya Madde 89 paragraf 1 uyarınca istatistiksel amaçlarla ilgili amaçlarla arşivleme.
+    
+        a Veri sahibi, Birlik hukuku veya Üye Devletlerin hukuku uyarınca, 1. paragrafta atıfta bulunulan yasak, 
+        veri sahibinin rızasıyla kaldırılmadığı sürece, söz konusu kişisel verilerin bir veya daha fazla belirli 
+        amaç için işlenmesine açıkça rıza göstermiştir. 
+        
+        b Veri sorumlusunun veya veri sahibinin iş hukuku ve sosyal güvenlik ve sosyal koruma hukuku kapsamındaki 
+        haklarını kullanabilmesi ve bunlara ilişkin yükümlülüklerini Birlik hukuku veya Üyenin hukukunun 
+        gerektirdiği ölçüde yerine getirebilmesi için işlemenin gerekli olması Üye Devletlerin yasaları uyarınca,
+        veri sahibinin temel hakları ve çıkarları için uygun güvenceler sağlayan Devletlere veya toplu sözleşmeye 
+        izin verilir,
+        
+        c veri sahibinin veya başka bir gerçek kişinin hayati menfaatlerini korumak için işlemenin gerekli olması 
+        ve veri sahibinin fiziksel veya yasal olarak rıza gösteremeyecek durumda olması,
+        
+        d işleme, yasal faaliyetleri sırasında siyasi, felsefi, dini veya sendika vakfı, dernek veya diğer 
+        kar amacı gütmeyen kuruluş tarafından uygun güvenceler temelinde gerçekleştirilir ve işlemenin yalnızca 
+        üyeler veya eski üyelerle ilgili olması şartıyla Kuruluşun veya kendisinin çalışma amacı ile ilgili 
+        olarak düzenli temas halinde olan kişileri ifade etmesi ve kişisel verilerin ilgili kişilerin rızası 
+        olmaksızın dış dünyaya açıklanmaması,
+        
+        e işlemenin, ilgili kişinin açıkça alenileştirdiği kişisel verilerle ilgili olması,
+        
+        f yasal iddiaların oluşturulması, uygulanması veya savunulması veya adli faaliyetleri bağlamında mahkeme 
+        eylemleri için işlemenin gerekli olması,
+        
+        g işlemenin, izlenen amaçla orantılı olan, veri koruma hakkının özüne saygı duyan ve veri öznesinin temel 
+        hak ve menfaatlerini korumak için uygun ve özel önlemler sağlayan Birlik hukuku veya bir Üye Devletin 
+        hukukuna dayalı olması, önemli bir kamu yararının gerekli olması nedeniyle,
+        
+        h işleme, sağlık bakımı veya mesleki tıp amaçları, işçinin çalışma kabiliyetinin değerlendirilmesi, sağlık
+        veya sosyal alanda tıbbi teşhis, bakım veya tedavi veya sağlık veya sosyal alanda sistem ve hizmetlerin 
+        yönetimi içindir. Birlik hukuku veya bir Üye Devletin hukuku temelinde veya bir sağlık mesleği mensubu ile 
+        yapılan bir sözleşme nedeniyle ve 3. paragrafta atıfta bulunulan koşullara ve güvencelere tabi olarak,
+        
+        i işleme, ciddi sınır ötesi sağlık risklerine karşı koruma veya sağlık ve tıbbi ürünler ve tıbbi cihazlarda 
+        yüksek kalite ve güvenlik standartlarının sağlanması gibi halk sağlığı alanındaki kamu yararı nedenleriyle, 
+        Birlik temelinde yapılır. Veri sahibinin haklarını ve özgürlüklerini, özellikle mesleki gizliliği korumak 
+        için uygun ve özel önlemler sağlayan bir Üye Devletin kanunu veya
+        
+        j işlemenin, izlenen amaçla orantılı olan, veri koruma hakkının özüne saygı duyan ve veri öznesinin temel hak
+        ve menfaatlerini korumak için uygun ve özel önlemler sağlayan Birlik hukuku veya bir Üye Devletin hukukuna 
+        dayalı olması, kamu amaçları için Bilimsel veya tarihsel araştırma amaçlarıyla veya Madde 89 paragraf 1 uyarınca 
+        istatistiksel amaçlarla ilgili amaçlarla arşivleme.
 
-3 1. paragrafta atıfta bulunulan kişisel veriler, bu tür veriler profesyoneller tarafından veya profesyonellerin sorumluluğu altında işleniyorsa ve bu tür profesyoneller Birlik hukuku veya yasalarına göre mesleki gizliliğe tabiyse, paragraf 2 h harfinde atıfta bulunulan amaçlar için işlenebilir. Bir Üye Devlet veya ulusal yetkili organların kuralları veya işlemenin Birlik veya Üye Devlet hukuku veya ulusal yetkili organların kuralları uyarınca gizlilik yükümlülüğüne tabi olan başka bir kişi tarafından gerçekleştirilmesi durumunda.
-4 Üye Devletler, genetik, biyometrik veya sağlık verilerinin işlenmesiyle ilgili olarak, kısıtlamalar dahil olmak üzere ek koşullar getirebilir veya sürdürebilir.
-
-
-
-
+    3 1. paragrafta atıfta bulunulan kişisel veriler, bu tür veriler profesyoneller tarafından veya profesyonellerin 
+    sorumluluğu altında işleniyorsa ve bu tür profesyoneller Birlik hukuku veya yasalarına göre mesleki gizliliğe tabiyse, 
+    paragraf 2 h harfinde atıfta bulunulan amaçlar için işlenebilir. Bir Üye Devlet veya ulusal yetkili organların 
+    kuralları veya işlemenin Birlik veya Üye Devlet hukuku veya ulusal yetkili organların kuralları uyarınca gizlilik 
+    yükümlülüğüne tabi olan başka bir kişi tarafından gerçekleştirilmesi durumunda.
+    
+    4 Üye Devletler, genetik, biyometrik veya sağlık verilerinin işlenmesiyle ilgili olarak, kısıtlamalar dahil olmak üzere
+    ek koşullar getirebilir veya sürdürebilir.
 
 Art. 10 DSGVO 
 Cezai mahkumiyet ve suçlara ilişkin kişisel verilerin işlenmesi
 
-Madde 6(1)'e dayalı olarak cezai hükümler ve suçlar veya ilgili güvenlik önlemleri ile ilgili kişisel verilerin işlenmesi, yalnızca resmi denetim altında veya bunun hak ve özgürlükler için uygun güvenceler sağlayan Birlik veya Üye Devlet hukuku uyarınca gerekli olması halinde gerçekleştirilebilir. veri konularının , izin verilir. 2Kapsamlı bir ceza mahkumiyeti kaydı, yalnızca resmi gözetim altında tutulabilir.
-
+Madde 6(1)'e dayalı olarak cezai hükümler ve suçlar veya ilgili güvenlik önlemleri ile ilgili kişisel verilerin işlenmesi,
+yalnızca resmi denetim altında veya bunun hak ve özgürlükler için uygun güvenceler sağlayan Birlik veya Üye Devlet hukuku 
+uyarınca gerekli olması halinde gerçekleştirilebilir. veri konularının , izin verilir. 
+Kapsamlı bir ceza mahkumiyeti kaydı, yalnızca resmi gözetim altında tutulabilir.
 
 Art. 11 DSGVO 
 Veri sahibinin kimliğinin belirlenmesini gerektirmeyen işleme
 
-    Bir kontrolörün kişisel verileri işleme amaçları, kontrolörün veri öznesini tanımlamasını gerektirmiyorsa veya artık gerektirmiyorsa, kontrolörün veri öznesini tanımlamak için bu Tüzüğe uymak için ek bilgileri tutması, elde etmesi veya işlemesi gerekli değildir.
-    2 Bu maddenin 1. paragrafında atıfta bulunulan durumlarda, kontrolör, veri öznesini tanımlayamadığını kanıtlayabilirse, mümkünse veri öznesini bu konuda bilgilendirecektir. 2Bu durumlarda, veri sahibi, bu Maddeler kapsamındaki haklarını kullanmak için kimliğinin tespit edilmesini sağlayan ek bilgiler sağlamadıkça, 15 ila 20. Maddeler uygulanmaz.
+    1 Bir kontrolörün kişisel verileri işleme amaçları, kontrolörün veri öznesini tanımlamasını gerektirmiyorsa 
+    veya artık gerektirmiyorsa, kontrolörün veri öznesini tanımlamak için bu Tüzüğe uymak için ek bilgileri tutması, 
+    elde etmesi veya işlemesi gerekli değildir.
+    
+    2 Bu maddenin 1. paragrafında atıfta bulunulan durumlarda, kontrolör, veri öznesini tanımlayamadığını kanıtlayabilirse, 
+    mümkünse veri öznesini bu konuda bilgilendirecektir. 
+    Bu durumlarda, veri sahibi, bu Maddeler kapsamındaki haklarını kullanmak için kimliğinin tespit edilmesini sağlayan 
+    ek bilgiler sağlamadıkça, 15 ila 20. Maddeler uygulanmaz.
 
 
 
